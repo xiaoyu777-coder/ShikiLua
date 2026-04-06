@@ -2,7 +2,7 @@
 -- update time: 2026-04-03
 -- app_name: 宗门起源
 
-addappid(3446240)
+addappid(3446240,0,"72025f6589adbe085fe83773d0423225dadb0c32b0eeb2f865984c8d71e5c736")
 
 addtoken(3446240,"12366859424522752049")
 
