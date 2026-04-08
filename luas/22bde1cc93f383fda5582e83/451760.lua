@@ -2,7 +2,7 @@
 -- update time: 2025-08-12
 -- app_name: Highway Blossoms - 花开公路
 
-addappid(451760)
+addappid(451760,0,"2a35fac3bfc4c40311d3fb8388b302d1cddb18f490249b1acdf03a8f0b8a6773")
 
 addappid(451764,0,"4db00675df746d2eb7fad2ae1db05a0287ef2966dc68400e44b2cb614a1687c8")
 addappid(451765,0,"cc762759d83f7f7cf90345654af2b773b8be952c719c8c73f521abf405253be6")
