@@ -2,7 +2,7 @@
 -- update time: 2026-03-22
 -- app_name: 仅你一人
 
-addappid(3604510)
+addappid(3604510,0,"a61f64fd7b22d35040596cd1ca656eba501b90a8dfbe6e1bd04f1daeb21d4989")
 
 addtoken(3604510,"12889670028436869344")
 
