@@ -5,5 +5,6 @@
 addappid(678230)
 
 addappid(678231,0,"8d98dbedc4f59334219f0bd75ae65cbd41c639fbfdf11aa03669cbdb0fad2872")
+addappid(679351,0,"2069af1dacfbb406f53c720a7e6717fe08f53a973e8d53ae68dea9a1372acf57")
 
 addappid(679350)
