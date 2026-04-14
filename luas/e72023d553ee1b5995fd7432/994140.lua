@@ -2,7 +2,7 @@
 -- update time: 2025-10-11
 -- app_name: Lightmatter
 
-addappid(994140)
+addappid(994140,0,"1f8f6e5f8ad05ff068e477558c8c585b8cb243d4d0e679cda9354d14f8b94c86")
 
 addappid(994141,0,"ea16096ea3a0f5e3aa7874463acb942869bba945d40c618db444df081c864393")
 
