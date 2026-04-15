@@ -2,7 +2,7 @@
 -- update time: 2026-03-18
 -- app_name: Warhammer 40,000: 星际战士2
 
-addappid(2183900)
+addappid(2183900,0,"227e48320b1cf15063a473da684cea19ebcd76548c0d50a505cdd0a78864ed0a")
 
 addtoken(2183900,"12779763340560861411")
 

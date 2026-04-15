@@ -2,7 +2,7 @@
 -- update time: 2025-12-17
 -- app_name: 刺客信条：枭雄
 
-addappid(368500)
+addappid(368500,0,"57e0d9f6fa7ecb541d39e95abf187a40f428bcd549cd9808393cd3d225f344f3")
 
 addappid(368501,0,"d1bdef91b5eaec4f3e423ca91fcfdf9431091873ffb54f6f72c040cc953b97e4")
 addappid(368502,0,"104abcec788393b8fdd109808cdd448282321f2ca2a2841bd144bf714a6c49c0")
