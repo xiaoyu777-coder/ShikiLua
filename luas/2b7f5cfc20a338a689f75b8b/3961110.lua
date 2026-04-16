@@ -7,4 +7,6 @@ addappid(3961110)
 addappid(3961111,0,"8f30650f9ac6f2fc9c986495cb3038e19fead796c0389e8ceafae2cec5ee5c90")
 addappid(4070490,0,"89bcc9dc15c28bede064b7f50aaa79161775b70f0ccfef9f19b341b52a9ffaa2")
 
+-- DLC: 1/1
+
 addappid(4070490)

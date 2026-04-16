@@ -51,6 +51,8 @@ addappid(812277,0,"cb559eeca8ce32fae77074d0e0be5b6a7e2309ab9cf287436a2b77504d3b2
 addappid(812281,0,"754263fedec4b3110a96aeaec21ec88d823fa964eda60d5bbac4368a32f6efbb")
 addappid(812284,0,"381d381f8b758da8a7a5b1360a0cada93bdb300ad03eb343ee7c45d809f23981")
 
+-- DLC: 22/22
+
 addappid(734830)
 addappid(792150)
 addappid(808890)

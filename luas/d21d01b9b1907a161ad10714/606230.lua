@@ -9,6 +9,9 @@ addappid(1212890,0,"ba14aa3ffca927a3af770a061a450e728ba59b9b1b261db77ad5ce52e37e
 addappid(1240020,0,"b134e22fc9a62ccde60af88058580de49386f85dba3f11abebf1950888cbf53b")
 addappid(2427170,0,"b6511aa463ac2ff2efd83cd5eab3bd3ad7c6ed0eefc931c6f01cd2f910a34a01")
 
+-- DLC: 3/4
+-- missing DLC: 1134160
+
 addappid(1212890)
 addappid(1240020)
 addappid(2427170)

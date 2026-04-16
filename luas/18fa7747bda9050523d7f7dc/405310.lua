@@ -18,6 +18,8 @@ addappid(449392,0,"adef08361852ccea7d99efbb7e3f0eb66f6b7c7779d02f9bd848b6730582e
 addappid(449393,0,"bbb1b5ac0de7ed0e65d1d11b5e1dec9adc3472fca79eec9e57f6bee35da4a706")
 addappid(449394,0,"117a008fc6d35f4deda7055e369155a37d2b11c1aea99938ce52a1617ebc04a1")
 
+-- DLC: 12/12
+
 addappid(418220)
 addappid(418221)
 addappid(422480)

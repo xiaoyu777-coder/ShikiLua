@@ -6,6 +6,8 @@ addappid(1337760)
 
 addappid(1337761,0,"9980e2cd8ad99ddb84366b708826a34a05f6fd4145efc76b60920645cc6ff3ac")
 
+-- DLC: 31/31
+
 addappid(1944370)
 addappid(1944380)
 addappid(1944390)

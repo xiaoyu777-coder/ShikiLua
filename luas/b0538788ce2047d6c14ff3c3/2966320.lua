@@ -8,6 +8,8 @@ addtoken(2966320,"1152859757700171993")
 
 addappid(2966321,0,"ce86c628c5c525587d2aea36d5a745c980584e22eca6389d8bfd7a63c0db1c4c")
 
+-- DLC: 4/4
+
 addappid(4391920)
 addappid(4395490)
 addappid(4424260)

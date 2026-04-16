@@ -5,3 +5,6 @@
 addappid(1848590)
 
 addappid(1848591,0,"cd3ded602947be647d8462e3b576e3266702e934847a2adcf19994ac644485d9")
+
+-- DLC: 0/1
+-- missing DLC: 2115230

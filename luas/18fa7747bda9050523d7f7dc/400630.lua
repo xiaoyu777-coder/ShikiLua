@@ -9,6 +9,8 @@ addappid(527020,0,"8f3eecb3a733a28d7c837e66cf1add7500ce34dd1b5dea6bcd7a953e117b2
 addappid(527021,0,"7eddd175701d7ca6516a707f2d8aac27edba181fa15d3961ebc689b7c3020713")
 addappid(527022,0,"618db311666d98b8119c5fea811246ea0f8819bfbdaabc215b8d99dd5dfd7583")
 
+-- DLC: 3/3
+
 addappid(527020)
 addappid(527021)
 addappid(527022)

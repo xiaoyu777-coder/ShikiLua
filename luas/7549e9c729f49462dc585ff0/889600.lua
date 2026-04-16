@@ -8,6 +8,8 @@ addappid(889601,0,"e4c8b0e2bd0fcb46537f2a5bf40e348a064eb7e0041643adbcc6b3df22505
 addappid(934200,0,"d7e36eb610e9e98bead83dd7ab135165eae43a2fc6cf09178e97a59c4e24eae2")
 addappid(934300,0,"a09eed7a69428985ee9ffde0ce9cac18d32a2c7b73fd14184f2d5a92cf9e7dce")
 
+-- DLC: 16/16
+
 addappid(934200)
 addappid(934300)
 addappid(934310)
