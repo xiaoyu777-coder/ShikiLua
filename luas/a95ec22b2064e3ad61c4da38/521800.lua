@@ -6,13 +6,5 @@ addappid(521800)
 
 addappid(521801,0,"eab59522c06717084c545fff6fe112b82854a95b47d37a03aa6c3b76d94bf9c0")
 
--- DLC: 8/8
-
-addappid(524170)
-addappid(524171)
-addappid(524172)
-addappid(524173)
-addappid(524174)
-addappid(524175)
-addappid(524176)
-addappid(590810)
+-- DLC: 0/8
+-- missing DLC: 524170, 524171, 524172, 524173, 524174, 524175, 524176, 590810

@@ -50,7 +50,8 @@ addappid(4174210,0,"9c1ffdccc6d30bacd62840a97a37e8743f56fa5abff697020c7a709b3415
 addappid(4174220,0,"e2f5e86b966bf209a11de8944fe65885eb08c0c6f5f0090d3b6b843e1bef1d5a")
 addappid(4174230,0,"1c34d441e639e6aaa07952b0f658992d33468ef2f204d2d5577f0d9f77396293")
 
--- DLC: 48/48
+-- DLC: 43/48
+-- missing DLC: 3627080, 3725250, 4349820, 4350180, 4350230
 
 addappid(3467170)
 addappid(3550070)
@@ -61,7 +62,6 @@ addappid(3626830)
 addappid(3627050)
 addappid(3627060)
 addappid(3627070)
-addappid(3627080)
 addappid(3627090)
 addappid(3627100)
 addappid(3627110)
@@ -73,7 +73,6 @@ addappid(3627160)
 addappid(3627170)
 addappid(3627180)
 addappid(3627190)
-addappid(3725250)
 addappid(3725270)
 addappid(3725280)
 addappid(3725290)
@@ -97,6 +96,3 @@ addappid(4174200)
 addappid(4174210)
 addappid(4174220)
 addappid(4174230)
-addappid(4349820)
-addappid(4350180)
-addappid(4350230)

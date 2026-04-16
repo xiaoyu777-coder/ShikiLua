@@ -13,7 +13,8 @@ addappid(2130433,0,"11ba72743e4354357fc181c0703d278b14c05653c8ae42051a2425bdf398
 addappid(2130434,0,"05412641b17aeb6a01ddc8e5b8b1c020c77a1ac3d9b2bdf1d8f45f90b0d9fc4a")
 addappid(2130435,0,"35f5b110b37e625d5bc6860bdbb96d7ae1d8289a351aee5aa1a830e4e74528c1")
 
--- DLC: 8/8
+-- DLC: 7/8
+-- missing DLC: 2431710
 
 addappid(2118280)
 addappid(2130430)
@@ -22,4 +23,3 @@ addappid(2130432)
 addappid(2130433)
 addappid(2130434)
 addappid(2130435)
-addappid(2431710)

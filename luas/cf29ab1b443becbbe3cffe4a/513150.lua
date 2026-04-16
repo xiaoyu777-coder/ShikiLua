@@ -6,15 +6,5 @@ addappid(513150)
 
 addappid(513151,0,"3401483bb27aecbe1002494b78dccbbd0d2a35a196eb657311b31c69d15be695")
 
--- DLC: 10/10
-
-addappid(519210)
-addappid(519211)
-addappid(519212)
-addappid(519213)
-addappid(519214)
-addappid(519215)
-addappid(519216)
-addappid(519217)
-addappid(519218)
-addappid(519219)
+-- DLC: 0/10
+-- missing DLC: 519210, 519211, 519212, 519213, 519214, 519215, 519216, 519217, 519218, 519219

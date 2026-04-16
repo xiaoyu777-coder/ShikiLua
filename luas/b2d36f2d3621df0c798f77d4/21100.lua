@@ -14,7 +14,5 @@ addappid(21107,0,"635ad7a5304754a0be85f9eab3a23b5697ac40b8a9afed43a6173c2910f48f
 addappid(21108,0,"67a96846c0db3d26b323abb2ff918bdc12acdefc5a0924040c8ec8c922420430")
 addappid(21109,0,"a35eea34e0af13b68d30fddc068ded42455e580131eb56bc4dfdb4124e5ace5f")
 
--- DLC: 2/2
-
-addappid(21150)
-addappid(21160)
+-- DLC: 0/2
+-- missing DLC: 21150, 21160

@@ -9,10 +9,9 @@ addappid(1215820,0,"0890c98fa0aa823afe57e4bfdbdbfa87a06f0532f447baa16117044c87ee
 addappid(1223490,0,"1d2d2ea68cb27690634e2ff82a64426f397f85aaf001bbf2c14cff8b4bd551a9")
 addappid(1631620,0,"11aa46b31524868c0f6390fba205305425c13bae710c8a44f309281fe43a88b7")
 
--- DLC: 4/5
--- missing DLC: 1215820
+-- DLC: 3/5
+-- missing DLC: 1807120, 2220920
 
+addappid(1215820)
 addappid(1223490)
 addappid(1631620)
-addappid(1807120)
-addappid(2220920)

@@ -7,7 +7,7 @@ addappid(328220)
 addappid(328221,0,"62124c913dd9d68517bf2e8ce5df281eb94c8e1ccf87e642ff3805529e1076ba")
 addappid(328223,0,"85a4bff31857dd065c51059999b4e2e0cadd6c6fe5059f1a9ec5c45add5ec338")
 
--- DLC: 2/2
+-- DLC: 1/2
+-- missing DLC: 413340
 
-addappid(413340)
 addappid(419890)

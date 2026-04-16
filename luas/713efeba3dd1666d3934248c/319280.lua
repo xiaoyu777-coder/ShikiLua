@@ -6,9 +6,5 @@ addappid(319280)
 
 addappid(319281,0,"f9976490fdc76047ef10daebdc0dea027210fc9227360609e9d2ead453646633")
 
--- DLC: 4/4
-
-addappid(382510)
-addappid(385640)
-addappid(385650)
-addappid(385660)
+-- DLC: 0/4
+-- missing DLC: 382510, 385640, 385650, 385660

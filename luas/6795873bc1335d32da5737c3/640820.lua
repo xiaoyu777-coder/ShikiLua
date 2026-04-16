@@ -11,7 +11,8 @@ addappid(900445,0,"9645783f51f1e9c79f3e043c3d86f69166d70e4d2152f5179e53ac94d2296
 addappid(947090,0,"ebbb7ce8555c374013fe56e260667da9fcf876e1784aeabd74f80206fe5e74a5")
 addappid(951520,0,"52222ef33623a9623461b64ed36ab6d25aeccff6d56953c593996ea889acaa4c")
 
--- DLC: 18/18
+-- DLC: 17/18
+-- missing DLC: 945272
 
 addappid(900440)
 addappid(900441)
@@ -26,7 +27,6 @@ addappid(900449)
 addappid(937800)
 addappid(945270)
 addappid(945271)
-addappid(945272)
 addappid(947090)
 addappid(951520)
 addappid(965950)

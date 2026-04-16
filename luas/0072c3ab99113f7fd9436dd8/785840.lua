@@ -6,32 +6,5 @@ addappid(785840)
 
 addappid(785841,0,"964fc252507ee162e21475ec2deddb904f134e184c9dacb3cf408419329266b2")
 
--- DLC: 26/27
--- missing DLC: 806710
-
-addappid(806711)
-addappid(806712)
-addappid(806713)
-addappid(806714)
-addappid(806715)
-addappid(806716)
-addappid(848180)
-addappid(848210)
-addappid(850370)
-addappid(868220)
-addappid(868221)
-addappid(883060)
-addappid(883061)
-addappid(883062)
-addappid(926560)
-addappid(926561)
-addappid(926562)
-addappid(943120)
-addappid(943121)
-addappid(943122)
-addappid(943123)
-addappid(960770)
-addappid(960771)
-addappid(961470)
-addappid(961471)
-addappid(961472)
+-- DLC: 0/27
+-- missing DLC: 806710, 806711, 806712, 806713, 806714, 806715, 806716, 848180, 848210, 850370, 868220, 868221, 883060, 883061, 883062, 926560, 926561, 926562, 943120, 943121, 943122, 943123, 960770, 960771, 961470, 961471, 961472

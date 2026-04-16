@@ -8,9 +8,8 @@ addappid(742011,0,"9d133a25fd62ea4f2f23012414ce190790a26de5414034c7b50093a954dd9
 addappid(742020,0,"7edbb41362ed85e8ed4dfb2f8b6bee4f6562fa207f97efdc40013426ad3fe011")
 addappid(749230,0,"51a3cbe2fdad5bb6389bb21409138fceb61f80ef208683366eb1b4a8855fd5b1")
 
--- DLC: 4/4
+-- DLC: 2/4
+-- missing DLC: 742021, 747420
 
 addappid(742020)
-addappid(742021)
-addappid(747420)
 addappid(749230)

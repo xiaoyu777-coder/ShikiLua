@@ -6,14 +6,5 @@ addappid(1007940)
 
 addappid(1007941,0,"33cabfc230e9404fbd77b7d7e194bdb94f72b9e077ecce4b47668a91bdb00b4d")
 
--- DLC: 9/9
-
-addappid(1031620)
-addappid(1033760)
-addappid(1037510)
-addappid(1047400)
-addappid(1114450)
-addappid(1118710)
-addappid(1120250)
-addappid(1133960)
-addappid(1138340)
+-- DLC: 0/9
+-- missing DLC: 1031620, 1033760, 1037510, 1047400, 1114450, 1118710, 1120250, 1133960, 1138340

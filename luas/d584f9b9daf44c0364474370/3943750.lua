@@ -6,10 +6,5 @@ addappid(3943750)
 
 addappid(3943752,0,"557094ace9807aecce3319553af9d0bcb4d68498afbe30123d2716066719f38a")
 
--- DLC: 5/5
-
-addappid(4031570)
-addappid(4031580)
-addappid(4031590)
-addappid(4031600)
-addappid(4031610)
+-- DLC: 0/5
+-- missing DLC: 4031570, 4031580, 4031590, 4031600, 4031610

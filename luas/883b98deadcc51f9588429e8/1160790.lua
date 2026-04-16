@@ -6,7 +6,5 @@ addappid(1160790)
 
 addappid(1160791,0,"563ba0e09bf2094ac91b72f06927bbeee4cc089c68dc371039c00f42d645cd60")
 
--- DLC: 2/2
-
-addappid(1196070)
-addappid(1223340)
+-- DLC: 0/2
+-- missing DLC: 1196070, 1223340
