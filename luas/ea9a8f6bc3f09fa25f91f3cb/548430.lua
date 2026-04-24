@@ -2,7 +2,7 @@
 -- update time: 2026-03-23
 -- app_name: 深岩银河
 
-addappid(548430)
+addappid(548430,0,"35e74cda02258a1dc29466af2d3c05f2030830981ead0936e3eb6c9d59284e7d")
 
 addappid(548431,0,"73ef10dc344cb7fb34be23aea35b20fbb2b32b0db50650919c7e3d731e759aad")
 
