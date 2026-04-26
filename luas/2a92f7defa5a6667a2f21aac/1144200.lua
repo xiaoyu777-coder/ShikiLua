@@ -2,7 +2,7 @@
 -- update time: 2026-03-20
 -- app_name: Ready or Not
 
-addappid(1144200)
+addappid(1144200,0,"fb29b3865255ec0e9230c029502cd87b8626fd12f9bdb2fa3df6cddf34e17179")
 
 addappid(1144201,0,"b9236894ba071d12dd117ce16220fefeb20574d7c6f7d2170e3113346867f3d6")
 
