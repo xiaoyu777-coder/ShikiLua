@@ -1,5 +1,5 @@
 {
-    "version": "2.55",
+    "version": "2.56",
     "url": "https://space.bilibili.com/20568856/dynamic",
-    "notes": "v2.54: 优化了D加密的授权流程；修复了手搓Lua功能的一些bug；\nv2.55: 添加了入库修复功能。"
+    "notes": "修复了D加密授权时gbe可能读取异常的bug；为游戏管理列表添加了模糊搜索功能。"
 }
