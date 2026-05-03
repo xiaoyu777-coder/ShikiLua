@@ -2,7 +2,7 @@
 -- update time: 2025-07-04
 -- app_name: HOT FIT! / フィットしちゃお！～年上女性と汗だくレッスン初体験～
 
-addappid(962380)
+addappid(962380,0,"34145eef4a4f54b9d6341a9232c3a36d254a68c2c87583e07ddb81a4fd6e28b8")
 
 addappid(962381,0,"1ef89851103d2aa0b76e6857dd90a76d2d72df19fabe20b9d8316212c326e832")
 
